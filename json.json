@@ -1,0 +1,35 @@
+{
+  "JSON": [
+    {
+      "nameFolder": "Documents",
+      "file_extensions": [
+        "doc",
+        "pdf",
+        "xls",
+        "xlsx",
+        "docx"
+      ]
+    },
+    {
+      "nameFolder": "EXE",
+      "file_extensions": [
+        "exe",
+        "msi"
+      ]
+    },
+    {
+      "nameFolder": "ISO",
+      "file_extensions": [
+        "iso"
+      ]
+    },
+    {
+      "nameFolder": "ZIP",
+      "file_extensions": [
+        "zip",
+        "7z",
+        "rar"
+      ]
+    }
+  ]
+}
